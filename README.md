@@ -37,3 +37,8 @@ I'm a tech enthusiast passionate about AI/ML 🤖, Web Development 🌐, and Dat
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/bhargavisharma)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bhargavisharmaa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhargavisharmaaa?igsh=dXc1Z3Vjc3ViMzl3)
+
+
+### Learning Journey 🚀 :
+![Snake animation](https://raw.githubusercontent.com/bhargavis19/output/main/github-snake.svg)
+
