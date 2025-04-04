@@ -1,4 +1,4 @@
-# Hi 👋! I'm Bhargavi
+# Hi👋! I'm Bhargavi
 
 ## About Me ✨
 
