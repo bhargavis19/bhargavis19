@@ -2,15 +2,11 @@
 
 ## About Me ✨
 
-I'm a tech enthusiast passionate about AI/ML 🤖, Web Development 🌐, and Data Analytics 📊. I love building projects that solve real-world problems and constantly strive to expand my knowledge.  
-
-I'm always excited to discuss new ideas and work on innovative projects! Let's connect and build something amazing! 🚀  
+I'm a tech enthusiast passionate about AI/ML 🤖, Web Development 🌐, and Data Analytics 📊. I love building projects that solve real-world problems and constantly strive to expand my knowledge.  I'm always excited to discuss new ideas and work on innovative projects! Let's connect and build something amazing! 🚀  
 
 ## GitHub Stats 📊
 
 ![Bhargavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavis19&show_icons=true&theme=radical)
-
-![Bhargavi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavis19&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavis19&layout=compact&theme=radical)
 
